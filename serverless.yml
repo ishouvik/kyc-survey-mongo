@@ -1,5 +1,5 @@
-app: openapi
-service: openapi
+app: app
+service: app
 
 package:
   patterns:
